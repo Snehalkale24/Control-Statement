@@ -1,1 +1,1 @@
-publi vbn
+publi vbn public 
